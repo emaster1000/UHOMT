@@ -1,6 +1,6 @@
 !=======================================================================================================
 !
- In this file follows a description of how to use the program HO3DMT (High Order based 3D MT modeling for unstructured mesh).
+ In this file follows a description of how to use the program UHO3DMT (High Order based 3D MT modeling for unstructured mesh).
 
 
   Author : Erik Uziel Gallardo Romero 
